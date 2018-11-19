@@ -1,0 +1,1 @@
+A naive script that export your spotify song list and import them to qq music
